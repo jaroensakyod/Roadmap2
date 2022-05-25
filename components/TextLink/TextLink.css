@@ -1,0 +1,23 @@
+.text-link-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 47px;
+  margin-left: 94px;
+  margin-top: 0.5px;
+  padding: 9px 10px;
+  width: 121px;
+}
+
+.community-1 {
+  letter-spacing: 0.20px;
+  line-height: 28px;
+  min-height: 27px;
+  text-align: center;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.text-link-5.text-link-7 {
+  margin-left: 75px;
+}
+

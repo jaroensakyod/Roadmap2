@@ -1,0 +1,23 @@
+.text-link-8 {
+  align-items: flex-start;
+  display: flex;
+  height: 47px;
+  margin-left: 94px;
+  margin-top: 0.5px;
+  padding: 9px 10px;
+  width: 102px;
+}
+
+.roadmap-1 {
+  letter-spacing: 0.20px;
+  line-height: 28px;
+  min-height: 27px;
+  text-align: center;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.text-link-8.text-link-10 {
+  margin-left: 75px;
+}
+

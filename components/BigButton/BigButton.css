@@ -1,0 +1,41 @@
+.big-button-1,
+.big-button-2 {
+  border-radius: 13px;
+  box-shadow: inset 0px 4px 4px #00000040;
+  display: flex;
+  height: 68px;
+  margin-left: 116px;
+  width: 236px;
+}
+
+.master-button-1,
+.master-button-2 {
+  background: linear-gradient(180deg, rgba(255, 102, 221.34, 0.9) 0%, rgba(188.36, 46.75, 255, 0.95) 100%);
+  border-radius: 30px;
+  box-shadow: 0px 10px 30px #b6322633;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 236px;
+}
+
+.text-button-1,
+.text-button-2 {
+  display: flex;
+  height: 35px;
+  margin-left: 58.5px;
+  margin-top: 16px;
+  width: 119px;
+}
+
+.surname-3,
+.surname-4 {
+  flex: 1;
+  letter-spacing: 0.10px;
+  line-height: 36px;
+  margin-left: -17.23%;
+  margin-right: -16.39%;
+  white-space: nowrap;
+  width: 159px;
+}
+
